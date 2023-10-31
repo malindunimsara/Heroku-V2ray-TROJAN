@@ -1,0 +1,18 @@
+{
+    "name": "𝑽2𝑹𝑨𝒀(𝙏𝙍𝙊𝙅𝘼𝙉) 𝑺𝑬𝑹𝑽𝑬𝑹 𝑰𝑵 𝑯𝑬𝑹𝑶𝑲𝑼",
+    "description": "𝔻𝔼ℙ𝕃𝕆𝕐 𝕧2𝕣𝕒𝕪 𝕊𝔼ℝ𝕍𝔼ℝ 𝕀ℕ ℍ𝔼ℝ𝕆𝕂𝕌",
+    "logo":"https://telegra.ph/file/4b7fa3a0f900de6727252.jpg",
+    "keywords": ["xray","v2ray","trojan"],
+    "env": {
+        "PASSWORD": {
+            "description": "Trojan password, You can choose random password!",
+            "required": true        
+        }
+        "NETWORK": {
+            "description": "Network stream. If you don't know what about it, don't change",
+            "value": "ws",
+            "required": true        
+    },
+    "repository": "https://github.com/malindunimsara/Heroku-V2ray-TROJAN",
+    "stack": "container"
+}
